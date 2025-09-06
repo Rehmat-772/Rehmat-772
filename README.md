@@ -29,41 +29,12 @@ const rehmat = {
 console.log(`${rehmat.name} is revolutionizing tech! 🚀`);
 ```
 
-## ⚡ TECH ARSENAL ⚡
-
-| **Java**Core Expertise | **C**System Programming | **C++**Performance | **Python**AI/ML Ready |
-|------------------------|------------------------|--------------------|-----------------------|
-
-### 🛠️ Development Environment
-
-### 🤖 AI & Machine Learning Journey
-
-| Learning TensorFlow | Scikit-Learn | NumPy | Pandas |
-|--------------------|--------------|-------|--------|
-
-## 📊 GITHUB MASTERY ANALYTICS 📊
-
-## 🏆 ACHIEVEMENT HALL OF FAME 🏆
-
-## 🎮 FEATURED MASTERPIECES 🎮
-
-## 📈 CODE CONTRIBUTION HEATMAP 📈
-
-### ⚡ Live Development Metrics ⚡
-
-## 🌟 Achievements & Certifications
-
-| 🎓 Education       | 🏅 Certifications  | 🚀 Current Goals      | 📊 GitHub Metrics      |
-|--------------------|-------------------|----------------------|------------------------|
-| CS50 Harvard       | In Progress       | Master AI/ML         |                        |
-| Java Programming   | Proficient        | Advanced Java Projects|                        |
-| Learning AI/ML     | Building Foundation| Data Science Career   |                        |
 
 ## 📫 Connect With Me
 
-- Email: (your email here)
-- LinkedIn: (your linkedin here)
+- Email: rehmat.gul772@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rehmat-ullah-97ba9b308
 
 ## 💭 Quote of the Day
 
-### 🎯 "Turning caffeine into code, one bug at a time" ☕💻
+### 🎯 "Programmers turn coffee into code and logic into reality." ☕💻
